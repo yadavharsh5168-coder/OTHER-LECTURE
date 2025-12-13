@@ -8,4 +8,28 @@ console.log(b,typeof(b));
 
 console.log(c,typeof(c));
 console.log(e,typeof(e));
-console.log(d,typeof(d));
+console.log(d,typeof(d));\
+
+let i=10;
+while(i<=11)
+    console.log(i);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
