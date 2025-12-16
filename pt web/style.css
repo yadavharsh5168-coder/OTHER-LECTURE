@@ -80,7 +80,7 @@ height:50px;
 color:aliceblue}
 .details{
 background-color: aqua;color:black;}
-.hero{background-image:url(../amzon.jpg);
+.hero{background-image:url("amzon.jpg");
 height: 600px;
 background-size: cover;
 }.shopsection{
